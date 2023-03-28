@@ -6,11 +6,24 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9E0D0E0429D331050046E592 /* HateEnglish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HateEnglish.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		9E0D0DFD29D330E50046E592 = {
 			isa = PBXGroup;
 			children = (
+				9E0D0E0529D3331E0046E592 /* Lv.0 */,
 			);
+			sourceTree = "<group>";
+		};
+		9E0D0E0529D3331E0046E592 /* Lv.0 */ = {
+			isa = PBXGroup;
+			children = (
+				9E0D0E0429D331050046E592 /* HateEnglish.swift */,
+			);
+			path = Lv.0;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
