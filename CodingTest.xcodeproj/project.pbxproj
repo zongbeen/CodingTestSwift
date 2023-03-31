@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		9E0D0E0429D331050046E592 /* HateEnglish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HateEnglish.swift; sourceTree = "<group>"; };
 		9E8D4D8C29D70EE800FDE52D /* count7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = count7.swift; sourceTree = "<group>"; };
+		9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllZ.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -24,6 +25,7 @@
 			children = (
 				9E0D0E0429D331050046E592 /* HateEnglish.swift */,
 				9E8D4D8C29D70EE800FDE52D /* count7.swift */,
+				9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */,
 			);
 			path = Lv.0;
 			sourceTree = "<group>";
