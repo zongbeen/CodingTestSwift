@@ -11,6 +11,7 @@
 		9E8D4D8C29D70EE800FDE52D /* Count7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count7.swift; sourceTree = "<group>"; };
 		9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllZ.swift; sourceTree = "<group>"; };
 		9E8D4D8E29D9AB2F00FDE52D /* FactorizationIntoPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationIntoPrimes.swift; sourceTree = "<group>"; };
+		9E8D4D8F29D9ACE800FDE52D /* ThrowBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThrowBall.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -28,6 +29,7 @@
 				9E8D4D8C29D70EE800FDE52D /* Count7.swift */,
 				9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */,
 				9E8D4D8E29D9AB2F00FDE52D /* FactorizationIntoPrimes.swift */,
+				9E8D4D8F29D9ACE800FDE52D /* ThrowBall.swift */,
 			);
 			path = Lv.0;
 			sourceTree = "<group>";
