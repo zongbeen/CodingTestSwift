@@ -22,3 +22,5 @@ func solution(_ dots:[[Int]]) -> Int {
 //
 //    return abs(a[0]*b[1] - a[1]*b[0])
 //}
+
+//가나다라마바사
