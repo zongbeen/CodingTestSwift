@@ -19,6 +19,7 @@
 		9E8D4D9729E2E6A700FDE52D /* RectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleArea.swift; sourceTree = "<group>"; };
 		9E8D4D9829E4598900FDE52D /* ChickenCoupon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChickenCoupon.swift; sourceTree = "<group>"; };
 		9E8D4D9929E5A4D200FDE52D /* SliceArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliceArray.swift; sourceTree = "<group>"; };
+		9E8D4D9A29E6F0BA00FDE52D /* CharacterCoordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCoordinates.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -44,6 +45,7 @@
 				9E8D4D9729E2E6A700FDE52D /* RectangleArea.swift */,
 				9E8D4D9829E4598900FDE52D /* ChickenCoupon.swift */,
 				9E8D4D9929E5A4D200FDE52D /* SliceArray.swift */,
+				9E8D4D9A29E6F0BA00FDE52D /* CharacterCoordinates.swift */,
 			);
 			path = Lv.0;
 			sourceTree = "<group>";
