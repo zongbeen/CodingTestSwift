@@ -8,6 +8,11 @@
 
 /* Begin PBXFileReference section */
 		9E0D0E0429D331050046E592 /* HateEnglish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HateEnglish.swift; sourceTree = "<group>"; };
+		9E4383422D6DF8B6008E8EB7 /* MinimumMaximun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumMaximun.swift; sourceTree = "<group>"; };
+		9E4383432D6DF8B6008E8EB7 /* JadenCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JadenCase.swift; sourceTree = "<group>"; };
+		9E4383442D6DF8B6008E8EB7 /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
+		9E4383452D6DF8B6008E8EB7 /* CreateMinimum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateMinimum.swift; sourceTree = "<group>"; };
+		9E4383462D6DF8B6008E8EB7 /* ConvertBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinary.swift; sourceTree = "<group>"; };
 		9E8D4D8C29D70EE800FDE52D /* Count7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count7.swift; sourceTree = "<group>"; };
 		9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllZ.swift; sourceTree = "<group>"; };
 		9E8D4D8E29D9AB2F00FDE52D /* FactorizationIntoPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationIntoPrimes.swift; sourceTree = "<group>"; };
@@ -27,6 +32,9 @@
 			isa = PBXGroup;
 			children = (
 				9E0D0E0529D3331E0046E592 /* Lv.0 */,
+				9E4383402D6DF8B6008E8EB7 /* Lv.1 */,
+				9E4383412D6DF8B6008E8EB7 /* Lv.2 */,
+				9E4383472D6DF8B6008E8EB7 /* Lv.3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -49,6 +57,32 @@
 			);
 			path = Lv.0;
 			sourceTree = "<group>";
+		};
+		9E4383402D6DF8B6008E8EB7 /* Lv.1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Lv.1;
+			sourceTree = SOURCE_ROOT;
+		};
+		9E4383412D6DF8B6008E8EB7 /* Lv.2 */ = {
+			isa = PBXGroup;
+			children = (
+				9E4383422D6DF8B6008E8EB7 /* MinimumMaximun.swift */,
+				9E4383432D6DF8B6008E8EB7 /* JadenCase.swift */,
+				9E4383442D6DF8B6008E8EB7 /* CorrectParentheses.swift */,
+				9E4383452D6DF8B6008E8EB7 /* CreateMinimum.swift */,
+				9E4383462D6DF8B6008E8EB7 /* ConvertBinary.swift */,
+			);
+			path = Lv.2;
+			sourceTree = SOURCE_ROOT;
+		};
+		9E4383472D6DF8B6008E8EB7 /* Lv.3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Lv.3;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
