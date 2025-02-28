@@ -13,14 +13,15 @@
 		9E4383442D6DF8B6008E8EB7 /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
 		9E4383452D6DF8B6008E8EB7 /* CreateMinimum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateMinimum.swift; sourceTree = "<group>"; };
 		9E4383462D6DF8B6008E8EB7 /* ConvertBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertBinary.swift; sourceTree = "<group>"; };
-		9E4383482D6E0933008E8EB7 /* nextBigNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nextBigNumber.swift; sourceTree = "<group>"; };
+		9E4383482D6E0933008E8EB7 /* NextBigNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextBigNumber.swift; sourceTree = "<group>"; };
 		9E4383492D6E0A67008E8EB7 /* Fibonacci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fibonacci.swift; sourceTree = "<group>"; };
-		9E43834A2D6F3158008E8EB7 /* removeRepeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeRepeat.swift; sourceTree = "<group>"; };
+		9E43834A2D6F3158008E8EB7 /* RemoveRepeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveRepeat.swift; sourceTree = "<group>"; };
 		9E43834B2D6F3E58008E8EB7 /* Carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carpet.swift; sourceTree = "<group>"; };
 		9E43834C2D6F6907008E8EB7 /* nLeastCommonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nLeastCommonMultiple.swift; sourceTree = "<group>"; };
-		9E43834D2D6F6947008E8EB7 /* tangerine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tangerine.swift; sourceTree = "<group>"; };
+		9E43834D2D6F6947008E8EB7 /* Tangerine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tangerine.swift; sourceTree = "<group>"; };
 		9E43834E2D70A210008E8EB7 /* EnglishEnding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishEnding.swift; sourceTree = "<group>"; };
-		9E43834F2D70B481008E8EB7 /* tournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tournament.swift; sourceTree = "<group>"; };
+		9E43834F2D70B481008E8EB7 /* Tournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tournament.swift; sourceTree = "<group>"; };
+		9E4383502D71F1DB008E8EB7 /* TurnParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurnParentheses.swift; sourceTree = "<group>"; };
 		9E8D4D8C29D70EE800FDE52D /* Count7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count7.swift; sourceTree = "<group>"; };
 		9E8D4D8D29D70F2F00FDE52D /* ControllZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllZ.swift; sourceTree = "<group>"; };
 		9E8D4D8E29D9AB2F00FDE52D /* FactorizationIntoPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationIntoPrimes.swift; sourceTree = "<group>"; };
@@ -81,14 +82,15 @@
 				9E4383442D6DF8B6008E8EB7 /* CorrectParentheses.swift */,
 				9E4383452D6DF8B6008E8EB7 /* CreateMinimum.swift */,
 				9E4383462D6DF8B6008E8EB7 /* ConvertBinary.swift */,
-				9E4383482D6E0933008E8EB7 /* nextBigNumber.swift */,
+				9E4383482D6E0933008E8EB7 /* NextBigNumber.swift */,
 				9E4383492D6E0A67008E8EB7 /* Fibonacci.swift */,
 				9E43834B2D6F3E58008E8EB7 /* Carpet.swift */,
-				9E43834A2D6F3158008E8EB7 /* removeRepeat.swift */,
+				9E43834A2D6F3158008E8EB7 /* RemoveRepeat.swift */,
 				9E43834C2D6F6907008E8EB7 /* nLeastCommonMultiple.swift */,
-				9E43834D2D6F6947008E8EB7 /* tangerine.swift */,
+				9E43834D2D6F6947008E8EB7 /* Tangerine.swift */,
 				9E43834E2D70A210008E8EB7 /* EnglishEnding.swift */,
-				9E43834F2D70B481008E8EB7 /* tournament.swift */,
+				9E43834F2D70B481008E8EB7 /* Tournament.swift */,
+				9E4383502D71F1DB008E8EB7 /* TurnParentheses.swift */,
 			);
 			path = Lv.2;
 			sourceTree = SOURCE_ROOT;
