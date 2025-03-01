@@ -1,5 +1,5 @@
 //
-//  MinimumMaximun.swift
+//  최댓값과 최솟값.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.
@@ -24,6 +24,11 @@ func solution(_ s: String) -> String {
     let numbers = s.split(separator: " ").compactMap { Int($0) }
     return "\(numbers.min()!) \(numbers.max()!)"
 }
-print(solution("1 2 3 4"))
-print(solution("-1 -2 -3 -4"))
-print(solution("-1 -1"))
+
+func solution2(_ s:String) -> String {
+    let numbers = s.split(separator: " ").map {Int($0)!}
+    if let minValue = numbers.min(), let maxValue = numbers.max() {
+        return "\(minValue) \(maxValue)"
+    }
+    return ""
+}

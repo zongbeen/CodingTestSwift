@@ -1,5 +1,5 @@
 //
-//  tournament.swift
+//  예상 대진표.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/27/25.

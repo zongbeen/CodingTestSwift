@@ -1,5 +1,5 @@
 //
-//  nextBigNumber.swift
+//  다음 큰 숫자.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.

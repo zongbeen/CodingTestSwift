@@ -1,5 +1,5 @@
 //
-//  removeRepeat.swift
+//  짝지어 제거하기.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/26/25.

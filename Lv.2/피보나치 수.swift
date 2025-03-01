@@ -1,5 +1,5 @@
 //
-//  Fibonacci.swift
+//  피보나치 수.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.

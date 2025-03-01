@@ -1,5 +1,5 @@
 //
-//  CreateMinimum.swift
+//  최솟값 만들기.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.

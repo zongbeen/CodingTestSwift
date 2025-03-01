@@ -1,5 +1,5 @@
 //
-//   English ending.swift
+//   영어 끝말잇기.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/27/25.

@@ -1,5 +1,5 @@
 //
-//  ConvertBinary.swift
+//  이진 변환 반복하기.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.

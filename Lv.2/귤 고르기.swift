@@ -1,5 +1,5 @@
 //
-//  tangerine.swift
+//  귤 고르기.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/27/25.

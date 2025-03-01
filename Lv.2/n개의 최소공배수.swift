@@ -1,5 +1,5 @@
 //
-//  nLeastCommonMultiple.swift
+//  n개의 최소공배수.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/27/25.

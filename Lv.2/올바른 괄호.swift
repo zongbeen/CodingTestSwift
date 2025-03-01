@@ -1,5 +1,5 @@
 //
-//  CorrectParentheses.swift
+//  올바른 괄호.swift
 //  CodingTest
 //
 //  Created by 한종빈 on 2/25/25.
